@@ -1,0 +1,30 @@
+.successfull{
+  width: 300px;
+  height: 300px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.successfull h3{
+  margin-top: 30%;
+  opacity: 0.7;
+  margin-bottom: 15%;
+}
+.successfull a{
+  text-decoration: none;
+  background: green;
+  width: 250px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  padding: 20px 40px;
+  border-radius: 10px;
+}
+.clock{
+  margin-top: 23%;
+  color: #f00;
+}
